@@ -1,2 +1,11 @@
-# simple-expense-tracker-cli-79
-A simple expense tracker project
+# Expense Tracker
+
+A simple expense tracker project.
+
+Created by Alex.
+
+## Getting Started
+
+```bash
+python expense.py
+```
